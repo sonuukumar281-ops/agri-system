@@ -11,3 +11,7 @@ frontend/dist/
 # OS
 .DS_Store
 Thumbs.db
+
+# Secrets & runtime files
+.env
+.otp_store.json

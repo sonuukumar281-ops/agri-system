@@ -1,3 +1,9 @@
 fastapi
 uvicorn
 pydantic
+pandas
+scikit-learn
+requests
+python-dotenv
+google-generativeai
+
